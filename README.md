@@ -36,9 +36,9 @@
 
 ### 3\. Activity: Тұрақ орнын брондау
 
-!\[Activity](docs/diagrams/03-activity.png)
+<img src="docs/diagrams/03-activity.png" alt="Activity" width="600">
 
 ### 4\. Sequence: Тұрақ орнын брондау
 
-!\[Sequence](docs/diagrams/04-sequence.png)
+<img src="docs/diagrams/04-sequence.png" alt="Sequence" width="800">
 
